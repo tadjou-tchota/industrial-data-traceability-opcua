@@ -2,7 +2,7 @@
 
 # Pipeline IIoT OPC UA – Industrial Data Quality, Provenance and Traceability
 
-Ce dépôt présente une architecture logicielle modulaire de type **Edge-to-Cloud / Passerelle IIoT** conçue pour répondre aux exigences critiques de **confiance, de traçabilité numérique et d'intégrité des données** dans les environnements industriels et les jumeaux numériques.
+Prototype expérimental développé par pour simuler une chaîne industrielle de collecte, contrôle qualité, traçabilité et sécurisation des données.
 
 ---
 
