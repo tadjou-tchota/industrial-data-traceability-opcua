@@ -27,6 +27,10 @@ Le projet est structuré de manière modulaire pour dissocier la configuration, 
 Installation de la dépendance :
 ```bash
 pip install opcua
+```
 
-Étape 1 : Démarrer le Serveur OPC UA (Simulation)
+#Étape 1 : Démarrer le Serveur OPC UA (Simulation)
 Ouvrez un premier terminal et lancez le simulateur d'équipement :
+```bash
+python opcua_server.py
+```
