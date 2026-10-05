@@ -27,3 +27,11 @@ Le projet est structuré de manière modulaire pour dissocier la configuration, 
 Installation de la dépendance :
 ```bash
 pip install opcua
+
+#Étape 1 : Démarrer le Serveur OPC UA
+```bash
+python opcua_server.py
+
+#Étape 2 : Lancer le Pipeline de Traçabilité
+```bash
+python traceability_client.py
