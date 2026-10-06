@@ -37,3 +37,8 @@ Ouvrez un deuxième terminal (sans fermer le premier) et exécutez le client :
 ```bash
 python traceability_client.py
 ```
+## Aperçu du Résultat (Démonstration)
+
+Voici un aperçu de l'exécution du client affichant en temps réel le payload JSON structuré, le contrôle de qualité et l'intégrité SHA-256 :
+
+![Démonstration du Pipeline IIoT](assets/demo_result.png)
