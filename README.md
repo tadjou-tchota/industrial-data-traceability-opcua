@@ -27,17 +27,17 @@ Installation de la dépendance :
 pip install opcua
 ```
 
-### Étape 1 : Démarrer le Serveur OPC UA (Simulation)
+### Étape 1 : Démarrer le Serveur OPC UA (simulation)
 Ouvrez un premier terminal et lancez le simulateur d'équipement :
 ```bash
 python opcua_server.py
 ```
-### Étape 2 : Lancer le Pipeline de Traçabilité (Client)
+### Étape 2 : Lancer le pipeline de traçabilité (client)
 Ouvrez un deuxième terminal (sans fermer le premier) et exécutez le client :
 ```bash
 python traceability_client.py
 ```
-## Aperçu du Résultat (Démonstration)
+## Aperçu du résultat (démonstration)
 
 Voici un aperçu de l'exécution du client affichant en temps réel le payload JSON structuré, le contrôle de qualité et l'intégrité SHA-256 :
 
