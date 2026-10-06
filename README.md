@@ -6,7 +6,7 @@ Prototype expérimental développé par pour simuler une chaîne industrielle de
 
 ---
 
-## 🏗️ Architecture Modulaire
+## Architecture Modulaire
 
 Le projet est structuré de manière modulaire pour dissocier la configuration, la simulation, la sécurité cryptographique, la persistance et la logique de collecte :
 
@@ -18,7 +18,7 @@ Le projet est structuré de manière modulaire pour dissocier la configuration, 
 
 ---
 
-## 🚀 Guide d'Utilisation
+## Guide d'Utilisation
 
 ### Prérequis Techniques
 * Python 3.10 ou supérieur.
