@@ -1,5 +1,3 @@
-# industrial-data-traceability-opcua
-
 # Pipeline IIoT OPC UA – Industrial Data Quality, Provenance and Traceability
 
 Prototype expérimental développé par pour simuler une chaîne industrielle de collecte, contrôle qualité, traçabilité et sécurisation des données.
